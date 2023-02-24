@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c3aecdd-1899-4f98-8e2f-3aaf268b368f" name="Changes" comment="sql02">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Sql03.java" afterDir="false" />
+    <list default="true" id="8c3aecdd-1899-4f98-8e2f-3aaf268b368f" name="Changes" comment="sql04 prima parte">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Startsql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +44,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Start4">
-    <configuration name="Start2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Start2" />
-      <module name="jdbc-video-practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Start3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Start3" />
+  <component name="RunManager" selected="Application.Startsql">
+    <configuration name="Sql03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Sql03" />
       <module name="jdbc-video-practice" />
       <extension name="coverage">
         <pattern>
@@ -71,6 +60,19 @@
     </configuration>
     <configuration name="Start4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Start4" />
+      <module name="jdbc-video-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Startsql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Startsql" />
       <module name="jdbc-video-practice" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Startsql" />
+        <item itemvalue="Application.Sql03" />
         <item itemvalue="Application.Start4" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.pract" />
-        <item itemvalue="Application.Start2" />
-        <item itemvalue="Application.Start3" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676486274179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sql03">
+      <created>1676486607836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676486607836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sql04 prima parte">
+      <created>1676486764684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676486764684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sql02" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql02" />
+    <MESSAGE value="sql03" />
+    <MESSAGE value="sql04 prima parte" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql04 prima parte" />
   </component>
 </project>
